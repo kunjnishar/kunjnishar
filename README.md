@@ -1,22 +1,23 @@
-<h1 align="center">✨ KUNJ NISHAR ✨</h1>
-<h3 align="center"><span style="color: #ec4899;">Full-Stack & Backend Software Engineer</span></h3>
+# Hi, I'm Kunj Nishar 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kunjnishar/kunjnishar/main/developer.svg" onerror="this.onerror=null; this.src='https://assets.dryicons.com/uploads/icon/svg/12628/developer.svg';" width="420" alt="Developer Coding" />
-</p>
+Backend-focused developer building projects with Python, Django, and REST APIs.
+
+## 🚀 What I'm working on
+
+- **RBAC & JWT Authentication Service** — a role-based access control API with JWT authentication, built with Django REST Framework
+- **URL Shortener & Analytics API** — a high-performance link shortener with atomic click tracking
+
+## 🛠️ Tech Stack
+
+**Languages:** Python
+
+**Backend:** Django, Django REST Framework, SQLite
+
+**Tools:** Git, GitHub, pytest
+
+## 📫 Connect with me
+
+- LinkedIn: [Kunj Nishar](your-linkedin-url-here)
 
 ---
-
-### 👨‍💻 About Me
-
-```javascript
-const kunj = {
-  education: "B.Tech in Computer Engineering",
-  currentFocus: "High-Concurrency Backend Architecture & Web Applications",
-  languages: ["Python", "JavaScript", "TypeScript", "SQL", "Java", "C"],
-  frameworks: ["Django REST Framework", "React.js", "Express.js", "Flask"],
-  databases: ["PostgreSQL", "SQLite"],
-  askMeAbout: ["Backend Architecture", "REST APIs", "System Design", "Database Optimization"],
-  contactMe: "kunjnishar1@gmail.com",
-  funFact: "Made with 💻 in India"
-};
+⭐ Feel free to check out my repositories below!
