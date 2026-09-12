@@ -37,5 +37,4 @@ Software Engineer focused on backend architecture, distributed application patte
 
 ### 📬 Connect With Me
 
-- **Email:** kunjnishar1@gmail.com
 - **LinkedIn:** [linkedin.com/in/kunj-nishar](https://www.linkedin.com)
