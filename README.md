@@ -1,40 +1,22 @@
-# Hi, I'm Kunj Nishar 👋
-
-Software Engineer focused on backend architecture, distributed application patterns, and full-stack web development. Experienced with Python, Django REST Framework, PostgreSQL, and modern frontend interfaces.
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-- **Languages:** Python, JavaScript, TypeScript, SQL, C, Java
-- **Backend & APIs:** Django, Django REST Framework, Flask, Node.js, Express.js
-- **Database & Data Layer:** PostgreSQL, SQLite, Database Indexing, Transaction Isolation (ACID)
-- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3
-- **DevOps & Cloud:** Git, GitHub, Render, Gunicorn, WhiteNoise, Linux
-
----
-
-### 🚀 Featured Engineering Projects
-
-#### [Shorten Engine — URL Shortener & Analytics API](https://github.com/kunjnishar/url-shortener-api)
-- High-throughput URL shortening service utilizing Base62 slug generation for $O(1)$ key lookups.
-- Atomic click-tracking pipeline utilizing database-level `F()` expressions to prevent concurrency race conditions.
-- **Live Service:** [url-shortener-api-fexe.onrender.com](https://url-shortener-api-fexe.onrender.com)
-
-#### [CrowdFund Engine](https://github.com/kunjnishar/crowdfund_engine)
-- Concurrent crowdfunding microservice engineered with PostgreSQL.
-- Implements row-level locking via `select_for_update()` inside atomic transactions to eliminate double-spend and over-pledging anomalies.
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">✨ KUNJ NISHAR ✨</h1>
+<h3 align="center"><span style="color: #ec4899;">Full-Stack & Backend Software Engineer</span></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunjnishar&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/kunjnishar/kunjnishar/main/developer.svg" onerror="this.onerror=null; this.src='https://assets.dryicons.com/uploads/icon/svg/12628/developer.svg';" width="420" alt="Developer Coding" />
 </p>
 
 ---
 
-### 📬 Connect With Me
+### 👨‍💻 About Me
 
-- **LinkedIn:** [linkedin.com/in/kunj-nishar](https://www.linkedin.com)
+```javascript
+const kunj = {
+  education: "B.Tech in Computer Engineering",
+  currentFocus: "High-Concurrency Backend Architecture & Web Applications",
+  languages: ["Python", "JavaScript", "TypeScript", "SQL", "Java", "C"],
+  frameworks: ["Django REST Framework", "React.js", "Express.js", "Flask"],
+  databases: ["PostgreSQL", "SQLite"],
+  askMeAbout: ["Backend Architecture", "REST APIs", "System Design", "Database Optimization"],
+  contactMe: "kunjnishar1@gmail.com",
+  funFact: "Made with 💻 in India"
+};
