@@ -17,7 +17,7 @@ Backend-focused developer building projects with Python, Django, and REST APIs.
 
 ## 📫 Connect with me
 
-- LinkedIn: [Kunj Nishar](your-linkedin-url-here)
+- LinkedIn: [Kunj Nishar](https://www.linkedin.com/in/kunjnishar/)
 
 ---
 ⭐ Feel free to check out my repositories below!
